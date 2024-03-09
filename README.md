@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Gabys35/SIEM-Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web Application Security (IDOR)</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure Sentinel (SIEM)</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate pinning Bypass (Burp Suite)</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact of Firewall in Voice Call Failures in VoIP (Cisco Packet Tracer)</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft Windows Defender and Firewall</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/VMware-ESXI">VMware ESXI</a>|
+| Troubleshooting, Security Analysis | <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web Application Security (IDOR)</a>|
+| Azure Sentinel, Wireshark, Telemetry Generation Tools, SIEM Concepts, Network Analysis, Critical Thinking         | <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure Sentinel (SIEM)</a>|
+|  Frida, Burp Suite, ADB (Android Debug Bridge), Troubleshooting, Firewalls, Packet Analysis     | <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate pinning Bypass (Burp Suite)</a>|
+| Firewalls, VoIP, Cisco Packet Tracer                 | <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact of Firewall in Voice Call Failures in VoIP (Cisco Packet Tracer)</a>|
+| Firewalls, Microsoft Defender | <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft Windows Defender and Firewall</a>|
+| VMWare ESXi, Putty, SSH, RAID, Rufus | <a href="https://github.com/Gabys35/VMware-ESXI">VMware ESXI</a>|
 
 ## Tools
 
