@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Gabys35/SIEM-Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web-Application-Security-IDOR</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure-Sentinel-SIEM</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate-pinning-Bypass-Burp-Suite</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft-Windows-Defender-and-Firewall</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/VMware-ESXI">VMware-ESXI</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web Application Security (IDOR)</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure Sentinel (SIEM)</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate pinning Bypass (Burp Suite)</a>|
+| Case Management with TheHive                  | <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact of Firewall in Voice Call Failures in VoIP (Cisco Packet Tracer)</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft Windows Defender and Firewall</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Gabys35/VMware-ESXI">VMware ESXI</a>|
 
 ## Tools
 
@@ -78,9 +78,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Gabys35/SIEM-Detection-Lab">Detection Lab</a>
-- <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web-Application-Security-IDOR</a>
-- <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure-Sentinel-SIEM</a>
-- <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate-pinning-Bypass-Burp-Suite</a>
-- <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP</a>
-- <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft-Windows-Defender-and-Firewall</a>
-- <a href="https://github.com/Gabys35/VMware-ESXI">VMware-ESXI</a>
+- <a href="https://github.com/Gabys35/Web-Application-Security-IDOR-">Web Application Security (IDOR)</a>
+- <a href="https://github.com/Gabys35/Azure-Sentinel-SIEM-">Azure Sentinel (SIEM)</a>
+- <a href="https://github.com/Gabys35/Certificate-pinning-Bypass-Burp-Suite-">Certificate pinning Bypass (Burp Suite)</a>
+- <a href="https://github.com/Gabys35/Impact-of-Firewall-in-Voice-Call-Failures-in-VoIP">Impact of Firewall in Voice Call Failures in VoIP (Cisco Packet Tracer)</a>
+- <a href="https://github.com/Gabys35/-Microsoft-Windows-Defender-and-Firewall">Microsoft Windows Defender and Firewall</a>
+- <a href="https://github.com/Gabys35/VMware-ESXI">VMware ESXI</a>
