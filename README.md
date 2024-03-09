@@ -28,6 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-QualysGuard-00A0DF?&style=for-the-badge&logo=QualysGuard&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logo=Autopsy&logoColor=white"
+        <img src="https://img.shields.io/badge/Azure%20Sentinel-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ## Operating Systems
@@ -75,5 +76,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Detection Lab
+- Web Application Security (IDOR)
+- Azure Sentinel (SIEM)
+- Certificate pinning Bypass (Burp Suite)
+- Impact of Firewall in Voice Call Failures in VoIP (Cisco Packet Tracer)
+- Microsoft Windows Defender and Firewall for Beginners
+- VMware ESXI
